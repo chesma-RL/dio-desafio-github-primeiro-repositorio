@@ -1,0 +1,17 @@
+ALguns comandos do Git para iniciar em sua maquina 
+
+Criando um repositório 
+git init
+
+
+Configurando o autor do git pela primeira vez no computador 
+
+git config –global user.email carloschesmarodrigues@gmai.com
+git config –global user.name Carlos
+
+Aficionado um arquivo 
+git add * ( adicionando todos os arquivos )
+
+Fazendo um comentário 
+Git commit -m “commit inicial”
+
